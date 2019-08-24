@@ -22,11 +22,11 @@ Python 2.7 <br>
 
 
 ### Data
-To run the botebook required the all the audio files from the VAST site: <br>
+To run the notebook required the all the audio files from the VAST site: <br>
 http://www.vacommunity.org/VAST+Challenge+2018#Mini-Challenge_1
 <br>
 the file is too large to upload onto the GitHub <br>
-'ALL BIRDS' folder saved in the same directory as the notebook <br>
+'ALL BIRDS' folder should be saved in the same directory as the notebook <br>
 
  
  ### SUMMARY
